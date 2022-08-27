@@ -1,0 +1,38 @@
+body {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Helvetica,
+    "游ゴシック", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 40px 0;
+}
+
+.header-ttl {
+  font-weight: bold;
+  font-size: 32px;
+  color: #00277E;
+}
+
+.header-nav-list {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-nav-item-link {
+  font-weight: bold;
+  font-size: 21px;
+  color: #00277E;
+  text-decoration: none;
+}
+
+.eyecatch-img-container {
+  width: 60%;
+  margin: 3vw 0 0 auto;
+}
+.eyecatch-img {
+  width: 100%;
+}
