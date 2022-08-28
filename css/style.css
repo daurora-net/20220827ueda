@@ -123,6 +123,11 @@ body {
   border-bottom: 1px solid #d4d4d4;
 }
 
+.news-list-item-link {
+  text-decoration: none;
+  color: #717171;
+}
+
 .news-list-item time {
   font-size: 15px;
 }
